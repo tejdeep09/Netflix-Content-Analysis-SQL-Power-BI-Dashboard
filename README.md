@@ -110,6 +110,14 @@ Significant growth in content release after 2015.
 
 TV-MA and PG-13 are the most common rating categories.
 
+
+
+
+----NETFLIX ER Diagram
+
+
+[!image alt](
+
 🧮 Sample SQL Queries Used
 -- Total Titles
 SELECT COUNT(*) FROM netflix;
@@ -125,22 +133,7 @@ FROM netflix
 GROUP BY genre
 ORDER BY total DESC;
 
-📁 Project Structure
-Netflix-SQL-PowerBI-Project/
-│
-├── Dataset/
-│   └── netflix_titles.sql
-│
-├── SQL/
-│   └── analysis_queries.sql
-│
-├── PowerBI/
-│   └── Netflix_Dashboard.pbix
-│
-├── ER_Diagram/
-│   └── er_diagram.png
-│
-└── README.md
+
 
 🎯 Skills Demonstrated
 
@@ -168,6 +161,16 @@ Genre Performance Evaluation
 
 Audience Rating Insights
 
+
+
+
+
+-----POWER BI Dashboard-----
+
+
+
+
+[!image alt](
 👨‍💻 About Me
 
 I am an aspiring Data Analyst passionate about transforming data into meaningful insights using SQL and Power BI.
