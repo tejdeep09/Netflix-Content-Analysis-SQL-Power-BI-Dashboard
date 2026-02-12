@@ -116,7 +116,7 @@ TV-MA and PG-13 are the most common rating categories.
 ----NETFLIX ER Diagram
 
 
-[!image alt](https://github.com/tejdeep09/Netflix-Content-Analysis-SQL-Power-BI-Dashboard/blob/4ba2881deb9dfe79a30567a0e5a8d26249e9575d/Netflix%20ER%20Diagram.png)
+![image alt](https://github.com/tejdeep09/Netflix-Content-Analysis-SQL-Power-BI-Dashboard/blob/4ba2881deb9dfe79a30567a0e5a8d26249e9575d/Netflix%20ER%20Diagram.png)
 
 🧮 Sample SQL Queries Used
 -- Total Titles
@@ -170,7 +170,7 @@ Audience Rating Insights
 
 
 
-[!image alt](
+![image alt](https://github.com/tejdeep09/Netflix-Content-Analysis-SQL-Power-BI-Dashboard/blob/main/POWERBI%20Dashboard.png?raw=true)
 👨‍💻 About Me
 
 I am an aspiring Data Analyst passionate about transforming data into meaningful insights using SQL and Power BI.
