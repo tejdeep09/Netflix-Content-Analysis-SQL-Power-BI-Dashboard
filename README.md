@@ -170,7 +170,7 @@ Audience Rating Insights
 
 
 
-![image alt](https://github.com/tejdeep09/Netflix-Content-Analysis-SQL-Power-BI-Dashboard/blob/main/POWERBI%20Dashboard.png?raw=true)
+![image alt](https://github.com/tejdeep09/Netflix-Content-Analysis-SQL-Power-BI-Dashboard/blob/274f10d8dc4713c0d31705f88059b21bb30cc05c/Screenshot%202026-02-16%20154419.png)
 👨‍💻 About Me
 
 I am an aspiring Data Analyst passionate about transforming data into meaningful insights using SQL and Power BI.
